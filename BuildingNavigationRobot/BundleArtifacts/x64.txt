@@ -1,0 +1,2 @@
+MainPackage=C:\Users\t-frhuel\Source\Repos\iot.client\Development\IoTCore\Apps\PersonalAssistantRobotProject\AssistantRobot1\AssistantRobot1\bin\x64\Debug\AssistantRobot1_1.0.1.0_x64_Debug.appx
+SymbolPackage=C:\Users\t-frhuel\Source\Repos\iot.client\Development\IoTCore\Apps\PersonalAssistantRobotProject\AssistantRobot1\AssistantRobot1\AppPackages\AssistantRobot1_1.0.1.0_Debug_Test\AssistantRobot1_1.0.1.0_x64_Debug.appxsym
